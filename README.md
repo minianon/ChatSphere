@@ -145,6 +145,6 @@ Distributed under the MIT License. See LICENSE for details.
 - **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
 - **GitHub:** [minianon](https://github.com/minianon)
 - **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
+- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
 - **Connect:** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
 - **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
