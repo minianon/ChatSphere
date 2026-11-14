@@ -137,6 +137,13 @@ Contributions are welcome! Follow these steps:
 - Write clear commit messages.
 - Ensure the code is linted and tested.
 
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
 ## License
 Distributed under the MIT License. See LICENSE for details.
 
